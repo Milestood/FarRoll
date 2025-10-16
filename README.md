@@ -1,2 +1,0 @@
-# FarRoll
-Rolling Game
