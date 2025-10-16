@@ -1,0 +1,2 @@
+﻿# FarRoll
+Temiz başlangıç.
